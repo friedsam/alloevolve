@@ -9,7 +9,17 @@ AlloEvolve is a research framework developed for the Cleveland Clinic track of t
 **Submission date:** 2026-09-15  
 **Phase-I snapshot:** `phase1-submission-2026-09-15`
 
-This repository is the public evidence and reproducibility companion to the Phase-I concept proposal. The full research/development repository remains private during active development; this public repository will contain frozen result summaries, figures, validation contracts, selected reproducibility code, and later hardware/scaling studies.
+This repository is the public evidence and reproducibility companion to the Phase-I concept proposal. The full research/development repository remains private during active development. The public companion was assembled immediately after proposal submission from the already-existing Phase-I artifacts; post-submission research is not retroactively treated as Phase-I evidence.
+
+### Evidence currently available
+
+- [Phase-I evidence index](docs/phase1_evidence_index.md)
+- [Method snapshot](docs/phase1_method.md)
+- [Validation contract](docs/validation_contract.md)
+- [Hardware strategy](docs/hardware_strategy.md)
+- [Exploratory result notes](results/phase1/README.md)
+- [Specialist-uplift assignments](results/phase1/specialist_uplift_assignments.csv)
+- [Apo-regime overlay counts](results/phase1/apo_regime_overlay_counts.csv)
 
 ## Core workflow
 
