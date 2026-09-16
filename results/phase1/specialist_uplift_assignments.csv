@@ -1,0 +1,51 @@
+protein_id,best_generalist_hits,best_specialist_hits,specialist_gain,category,assignment,winning_specialist_families,best_generalist_candidates,best_specialist_candidates
+O05581,1,3,2,UNIQUE_SPECIALIST,QFIM,QFIM,g12_phase_ensemble__distance | g2_sem_001 | g2_sem_001__distance | g3_sem_003 | g4_sem_001 | g4_sem_001__distance | g5_sem_001 | g5_sem_001__distance | g8_sem_002 | g8_sem_002__distance,g2_mut_001 | g2_mut_001__distance
+O40922,7,4,0,GENERALIST,Generalist,,g2_sem_001 | g2_sem_001__distance | g3_sem_003 | g4_sem_001 | g4_sem_001__distance | g5_sem_001 | g5_sem_001__distance | g8_sem_002 | g8_sem_002__distance,
+O60678,2,2,0,GENERALIST,Generalist,,g2_sem_001__distance | g5_sem_001__distance,
+O75311,0,0,0,UNCOVERED,Uncovered,,,
+O75643,8,2,0,GENERALIST,Generalist,,g4_sem_001__distance | g5_sem_001__distance | g8_sem_002__distance,
+O75874,0,0,0,UNCOVERED,Uncovered,,,
+O94925,3,2,0,GENERALIST,Generalist,,g4_sem_001,
+P00720,3,3,0,GENERALIST,Generalist,,g4_sem_001,
+P00864,1,0,0,GENERALIST,Generalist,,g8_sem_002,
+P00968,0,2,2,UNIQUE_SPECIALIST,Onsite,Onsite,,g6_sem_001 | g6_sem_003
+P02766,0,2,2,UNIQUE_SPECIALIST,Onsite,Onsite,,g6_sem_002 | g7_sem_001
+P02768,0,1,1,UNIQUE_SPECIALIST,Wave coherent lift,Wave coherent lift,,g10_sem_001 | g10_sem_001__decode_l2
+P06730,9,5,0,GENERALIST,Generalist,,g8_sem_002 | g8_sem_002__distance,
+P08684,0,0,0,UNCOVERED,Uncovered,,,
+P0A6F3,1,1,0,GENERALIST,Generalist,,g2_sem_001 | g2_sem_001__distance,
+P0A993,1,0,0,GENERALIST,Generalist,,g2_sem_001 | g2_sem_001__distance | g3_sem_003,
+P0ABH7,0,2,2,UNIQUE_SPECIALIST,Long-range transport,Long-range transport,,lr_peak__distance
+P10253,1,0,0,GENERALIST,Generalist,,g12_phase_ensemble__distance,
+P10275,0,0,0,UNCOVERED,Uncovered,,,
+P19491,0,1,1,UNIQUE_SPECIALIST,Causal response,Causal response,,g9_sem_001__distance
+P19492,0,2,2,UNIQUE_SPECIALIST,Wave coherent lift,Wave coherent lift,,g10_sem_001 | g10_sem_001__distance
+P23921,2,3,1,SPECIALIST_TIE,Tie: QFIM | Wave coherent lift,QFIM | Wave coherent lift,g1_mut_002 | g2_sem_001 | g2_sem_001__distance | g4_sem_001__distance | g5_sem_001__distance,g5_sem_002 | g5_sem_002__distance | g10_sem_001__distance | g11_sem_001__distance
+P29274,0,0,0,UNCOVERED,Uncovered,,,
+P30613,1,3,2,UNIQUE_SPECIALIST,QFIM,QFIM,g12_phase_ensemble__distance,g3_xover_002
+P31153,7,7,0,GENERALIST,Generalist,,g2_sem_001__distance,
+P32178,0,0,0,UNCOVERED,Uncovered,,,
+P39669,0,0,0,UNCOVERED,Uncovered,,,
+P50620,6,6,0,GENERALIST,Generalist,,g8_sem_002,
+P54578,5,7,2,UNIQUE_SPECIALIST,Phase,Phase,g4_sem_001,g3_sem_002
+P54830,3,6,3,UNIQUE_SPECIALIST,QFIM,QFIM,g12_phase_ensemble__distance,g2_sem_002 | g3_xover_002
+P55072,4,10,6,UNIQUE_SPECIALIST,QFIM,QFIM,g12_phase_ensemble__distance,g3_sem_001
+P55210,3,5,2,UNIQUE_SPECIALIST,QFIM,QFIM,g4_sem_001 | g4_sem_001__distance,g3_xover_002
+P55212,0,0,0,UNCOVERED,Uncovered,,,
+P68871,0,0,0,UNCOVERED,Uncovered,,,
+P69681,2,3,1,UNIQUE_SPECIALIST,QFIM,QFIM,g1_mut_002,g3_xover_002
+P9WKE5,3,6,3,UNIQUE_SPECIALIST,QFIM,QFIM,g12_phase_ensemble__distance,g2_mut_001 | g2_mut_001__distance
+Q0ASS9,3,3,0,GENERALIST,Generalist,,g4_sem_001,
+Q2G036,0,0,0,UNCOVERED,Uncovered,,,
+Q4D9Z4,0,3,3,UNIQUE_SPECIALIST,QFIM,QFIM,,g3_sem_001 | g3_xover_002
+Q60710,2,1,0,GENERALIST,Generalist,,g2_sem_001,
+Q64610,8,9,1,UNIQUE_SPECIALIST,QFIM,QFIM,g2_sem_001 | g2_sem_001__distance | g3_sem_003 | g8_sem_002,g3_sem_001
+Q8FJB1,9,6,0,GENERALIST,Generalist,,g5_sem_001,
+Q8NNL5,4,1,0,GENERALIST,Generalist,,g1_mut_002,
+Q8PDA8,0,0,0,UNCOVERED,Uncovered,,,
+Q8X607,4,3,0,GENERALIST,Generalist,,g3_sem_003 | g8_sem_002,
+Q99279,0,3,3,SPECIALIST_TIE,Tie: Long-range transport | Phase,Long-range transport | Phase,,lr_time_mean__raw | g12_phase_ensemble
+Q99XG5,0,3,3,UNIQUE_SPECIALIST,QFIM,QFIM,,g5_sem_002__distance
+Q9K169,3,4,1,UNIQUE_SPECIALIST,QFIM,QFIM,g1_mut_002,g3_sem_001
+Q9NPD8,2,6,4,SPECIALIST_TIE,Tie: Causal response | Phase,Causal response | Phase,g12_phase_ensemble__distance,g9_sem_001 | g3_sem_002
+Q9X2A4,3,2,0,GENERALIST,Generalist,,g8_sem_002,
