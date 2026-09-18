@@ -20,6 +20,7 @@ This repository is the public evidence and reproducibility companion to the Phas
 - [Exploratory result notes](results/phase1/README.md)
 - [Specialist-uplift assignments](results/phase1/specialist_uplift_assignments.csv)
 - [Apo-regime overlay counts](results/phase1/apo_regime_overlay_counts.csv)
+- [Public reproducibility helper](reproducibility/summarize_phase1.py)
 
 ## Core workflow
 
